@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { Stack } from 'styled-system/jsx'
 import { Progress } from '~/components/ui/progress'
 

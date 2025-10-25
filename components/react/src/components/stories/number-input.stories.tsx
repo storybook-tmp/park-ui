@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { NumberInput } from '~/components/ui/number-input'
 
 const meta: Meta = {

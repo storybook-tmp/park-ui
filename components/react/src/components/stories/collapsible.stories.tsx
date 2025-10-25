@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { Box } from 'styled-system/jsx'
 import { Button } from '~/components/ui/button'
 import { Collapsible } from '~/components/ui/collapsible'

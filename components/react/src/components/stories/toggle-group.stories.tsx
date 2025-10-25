@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { BoldIcon, ItalicIcon, UnderlineIcon } from 'lucide-react'
 import { Stack } from 'styled-system/jsx'
 import { ToggleGroup } from '~/components/ui/toggle-group'

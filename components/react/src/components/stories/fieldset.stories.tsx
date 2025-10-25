@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { OctagonAlertIcon } from 'lucide-react'
 import { Field } from '~/components/ui/field'
 import { Fieldset } from '~/components/ui/fieldset'

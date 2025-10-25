@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { CheckIcon, ClipboardCopyIcon } from 'lucide-react'
 import { Clipboard } from '~/components/ui/clipboard'
 import { FormLabel } from '~/components/ui/form-label'

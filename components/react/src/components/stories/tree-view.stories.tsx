@@ -1,5 +1,5 @@
 import { createTreeCollection } from '@ark-ui/react/tree-view'
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { TreeView } from '~/components/ui/tree-view'
 
 const meta: Meta = {

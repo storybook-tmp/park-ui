@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { Kbd } from '~/components/ui/kbd'
 
 const meta: Meta = {

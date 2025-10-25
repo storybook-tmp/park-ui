@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { RadioButtonGroup } from '~/components/ui/radio-button-group'
 
 const meta: Meta = {

@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { useState } from 'react'
 import { Box } from 'styled-system/jsx'
 import { Button } from '~/components/ui/button'

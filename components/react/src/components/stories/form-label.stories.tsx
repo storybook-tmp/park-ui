@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { FormLabel } from '~/components/ui/form-label'
 
 const meta: Meta = {
