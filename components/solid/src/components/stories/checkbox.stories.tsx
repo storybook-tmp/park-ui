@@ -3,6 +3,7 @@ import { Checkbox } from '~/components/ui/checkbox'
 
 const meta: Meta = {
   title: 'Components/Checkbox',
+  component: Checkbox,
 }
 
 export default meta

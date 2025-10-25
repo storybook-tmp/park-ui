@@ -4,6 +4,7 @@ import { TreeView } from '~/components/ui/tree-view'
 
 const meta: Meta = {
   title: 'Components/Tree View',
+  component: TreeView,
 }
 
 export default meta

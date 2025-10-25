@@ -3,6 +3,7 @@ import { Splitter } from '~/components/ui/splitter'
 
 const meta: Meta = {
   title: 'Components/Splitter',
+  component: Splitter.Root,
 }
 
 export default meta

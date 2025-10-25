@@ -4,6 +4,7 @@ import { Heading } from '~/components/ui/heading'
 
 const meta: Meta = {
   title: 'Components/Heading',
+  component: Heading,
 }
 
 export default meta

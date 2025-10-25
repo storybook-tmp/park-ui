@@ -5,6 +5,7 @@ import { Accordion } from '~/components/ui/accordion'
 
 const meta: Meta = {
   title: 'Components/Accordion',
+  component: Accordion.Root,
 }
 
 export default meta

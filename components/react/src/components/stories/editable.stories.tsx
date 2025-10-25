@@ -5,6 +5,7 @@ import { FormLabel } from '~/components/ui/form-label'
 
 const meta: Meta = {
   title: 'Components/Editable',
+  component: Editable.Root,
 }
 
 export default meta

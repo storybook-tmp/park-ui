@@ -5,6 +5,7 @@ import { Button } from '~/components/ui/button'
 
 const meta: Meta = {
   title: 'Components/Button',
+  component: Button,
 }
 
 export default meta

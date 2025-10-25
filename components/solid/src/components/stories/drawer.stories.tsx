@@ -5,6 +5,7 @@ import { Drawer } from '~/components/ui/drawer'
 
 const meta: Meta = {
   title: 'Components/Drawer',
+  component: Drawer.Root,
 }
 
 export default meta

@@ -4,6 +4,7 @@ import { Text } from '~/components/ui/text'
 
 const meta: Meta = {
   title: 'Components/Text',
+  component: Text,
 }
 
 export default meta

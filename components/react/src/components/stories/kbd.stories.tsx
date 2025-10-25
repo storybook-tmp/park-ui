@@ -3,6 +3,7 @@ import { Kbd } from '~/components/ui/kbd'
 
 const meta: Meta = {
   title: 'Components/Kbd',
+  component: Kbd,
 }
 
 export default meta

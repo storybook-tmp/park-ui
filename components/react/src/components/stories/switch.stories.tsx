@@ -3,6 +3,7 @@ import { Switch } from '~/components/ui/switch'
 
 const meta: Meta = {
   title: 'Components/Switch',
+  component: Switch,
 }
 
 export default meta

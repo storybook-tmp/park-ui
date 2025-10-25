@@ -3,6 +3,7 @@ import { Avatar } from '~/components/ui/avatar'
 
 const meta: Meta = {
   title: 'Components/Avatar',
+  component: Avatar,
 }
 
 export default meta

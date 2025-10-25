@@ -9,6 +9,7 @@ import { Text } from '~/components/ui/text'
 
 const meta: Meta = {
   title: 'Components/Color Picker',
+  component: ColorPicker.Root,
 }
 
 export default meta

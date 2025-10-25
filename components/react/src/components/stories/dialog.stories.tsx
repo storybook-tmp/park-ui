@@ -7,6 +7,7 @@ import { IconButton } from '~/components/ui/icon-button'
 
 const meta: Meta = {
   title: 'Components/Dialog',
+  component: Dialog.Root,
 }
 
 export default meta

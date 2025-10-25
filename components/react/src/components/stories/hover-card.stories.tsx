@@ -9,6 +9,7 @@ import { Text } from '~/components/ui/text'
 
 const meta: Meta = {
   title: 'Components/Hover Card',
+  component: HoverCard.Root,
 }
 
 export default meta

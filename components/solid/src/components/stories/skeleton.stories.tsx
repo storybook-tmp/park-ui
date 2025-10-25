@@ -6,6 +6,7 @@ import { Skeleton } from '~/components/ui/skeleton'
 
 const meta: Meta = {
   title: 'Components/Skeleton',
+  component: Skeleton,
 }
 
 export default meta

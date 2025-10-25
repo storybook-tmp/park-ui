@@ -7,6 +7,7 @@ import { Input } from '~/components/ui/input'
 
 const meta: Meta = {
   title: 'Components/Combobox',
+  component: Combobox.Root,
 }
 
 export default meta

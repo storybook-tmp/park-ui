@@ -6,6 +6,7 @@ import { Field } from '~/components/ui/field'
 
 const meta: Meta = {
   title: 'Components/Card',
+  component: Card.Root,
 }
 
 export default meta

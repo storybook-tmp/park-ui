@@ -4,6 +4,7 @@ import { RadioButtonGroup } from '~/components/ui/radio-button-group'
 
 const meta: Meta = {
   title: 'Components/Radio Button Group',
+  component: RadioButtonGroup.Root,
 }
 
 export default meta

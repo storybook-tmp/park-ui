@@ -6,6 +6,7 @@ import { TagsInput } from '~/components/ui/tags-input'
 
 const meta: Meta = {
   title: 'Components/Tags Input',
+  component: TagsInput.Root,
 }
 
 export default meta

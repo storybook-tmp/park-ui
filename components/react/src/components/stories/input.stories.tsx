@@ -3,6 +3,7 @@ import { Input } from '~/components/ui/input'
 
 const meta: Meta = {
   title: 'Components/Input',
+  component: Input,
 }
 
 export default meta

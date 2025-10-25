@@ -4,6 +4,7 @@ import { Alert } from '~/components/ui/alert'
 
 const meta: Meta = {
   title: 'Components/Alert',
+  component: Alert.Root,
 }
 
 export default meta

@@ -5,6 +5,7 @@ import { ToggleGroup } from '~/components/ui/toggle-group'
 
 const meta: Meta = {
   title: 'Components/Toggle Group',
+  component: ToggleGroup.Root,
 }
 
 export default meta

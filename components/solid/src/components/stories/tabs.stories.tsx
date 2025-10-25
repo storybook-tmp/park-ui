@@ -4,6 +4,7 @@ import { Tabs } from '~/components/ui/tabs'
 
 const meta: Meta = {
   title: 'Components/Tabs',
+  component: Tabs.Root,
 }
 
 export default meta

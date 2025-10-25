@@ -4,6 +4,7 @@ import { PinInput } from '~/components/ui/pin-input'
 
 const meta: Meta = {
   title: 'Components/Pin Input',
+  component: PinInput,
 }
 
 export default meta

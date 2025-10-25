@@ -3,6 +3,7 @@ import { NumberInput } from '~/components/ui/number-input'
 
 const meta: Meta = {
   title: 'Components/Number Input',
+  component: NumberInput,
 }
 
 export default meta

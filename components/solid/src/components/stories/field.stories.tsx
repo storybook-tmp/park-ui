@@ -3,6 +3,7 @@ import { Field } from '~/components/ui/field'
 
 const meta: Meta = {
   title: 'Components/Field',
+  component: Field.Root,
 }
 
 export default meta

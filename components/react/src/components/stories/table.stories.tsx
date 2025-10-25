@@ -3,6 +3,7 @@ import { Table } from '~/components/ui/table'
 
 const meta: Meta = {
   title: 'Components/Table',
+  component: Table.Root,
 }
 
 export default meta

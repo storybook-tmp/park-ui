@@ -6,6 +6,7 @@ import { IconButton } from '~/components/ui/icon-button'
 
 const meta: Meta = {
   title: 'Components/Carousel',
+  component: Carousel.Root,
 }
 
 export default meta

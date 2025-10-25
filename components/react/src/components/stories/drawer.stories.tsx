@@ -6,6 +6,7 @@ import { IconButton } from '~/components/ui/icon-button'
 
 const meta: Meta = {
   title: 'Components/Drawer',
+  component: Drawer.Root,
 }
 
 export default meta

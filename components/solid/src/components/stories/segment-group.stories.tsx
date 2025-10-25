@@ -4,6 +4,7 @@ import { SegmentGroup } from '~/components/ui/segment-group'
 
 const meta: Meta = {
   title: 'Components/Segment Group',
+  component: SegmentGroup.Root,
 }
 
 export default meta

@@ -6,6 +6,7 @@ import { Toast } from '~/components/ui/toast'
 
 const meta: Meta = {
   title: 'Components / Toast',
+  component: Toast.Toaster,
 }
 
 export default meta

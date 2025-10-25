@@ -3,6 +3,7 @@ import { Textarea } from '~/components/ui/textarea'
 
 const meta: Meta = {
   title: 'Components/Textarea',
+  component: Textarea,
 }
 
 export default meta

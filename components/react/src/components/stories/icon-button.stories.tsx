@@ -4,6 +4,7 @@ import { IconButton } from '~/components/ui/icon-button'
 
 const meta: Meta = {
   title: 'Components/Icon Button',
+  component: IconButton,
 }
 
 export default meta

@@ -4,6 +4,7 @@ import { Progress } from '~/components/ui/progress'
 
 const meta: Meta = {
   title: 'Components/Progress Circular',
+  component: Progress,
 }
 
 export default meta

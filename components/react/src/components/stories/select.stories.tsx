@@ -4,6 +4,7 @@ import { Select, createListCollection } from '~/components/ui/select'
 
 const meta: Meta = {
   title: 'Components/Select',
+  component: Select.Root,
 }
 
 export default meta

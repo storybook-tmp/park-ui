@@ -7,6 +7,7 @@ import { Switch } from '~/components/ui/switch'
 
 const meta: Meta = {
   title: 'Components/Fieldset',
+  component: Fieldset.Root,
 }
 
 export default meta

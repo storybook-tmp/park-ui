@@ -13,6 +13,7 @@ const config: StorybookConfig = {
     getAbsolutePath('@storybook/addon-a11y'),
     getAbsolutePath('@storybook/addon-themes'),
     getAbsolutePath('@storybook/addon-docs'),
+    // getAbsolutePath('@storybook/addon-mcp'),
   ],
 
   framework: {
@@ -22,10 +23,6 @@ const config: StorybookConfig = {
 
   core: {
     disableTelemetry: true,
-  },
-
-  typescript: {
-    reactDocgen: false,
   },
 
   async viteFinal(config) {
@@ -38,6 +35,8 @@ const config: StorybookConfig = {
     backgrounds: false,
     controls: false,
     actions: false,
+    experimentalComponentsManifest: true,
+    experimentalCodeExamples: true,
   },
 }
 

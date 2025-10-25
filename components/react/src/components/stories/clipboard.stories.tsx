@@ -7,6 +7,7 @@ import { Input } from '~/components/ui/input'
 
 const meta: Meta = {
   title: 'Components/Clipboard',
+  component: Clipboard.Root,
 }
 
 export default meta

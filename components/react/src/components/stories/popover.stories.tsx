@@ -7,6 +7,7 @@ import { Popover } from '~/components/ui/popover'
 
 const meta: Meta = {
   title: 'Components/Popover',
+  component: Popover.Root,
 }
 
 export default meta

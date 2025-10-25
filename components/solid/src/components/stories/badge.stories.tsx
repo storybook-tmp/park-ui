@@ -3,6 +3,7 @@ import { Badge } from '~/components/ui/badge'
 
 const meta: Meta = {
   title: 'Components/Badge',
+  component: Badge,
 }
 
 export default meta

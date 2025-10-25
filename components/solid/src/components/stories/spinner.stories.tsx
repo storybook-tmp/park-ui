@@ -4,6 +4,7 @@ import { Spinner } from '~/components/ui/spinner'
 
 const meta: Meta = {
   title: 'Components/Spinner',
+  component: Spinner,
 }
 
 export default meta

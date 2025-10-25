@@ -3,6 +3,7 @@ import { RadioGroup } from '~/components/ui/radio-group'
 
 const meta: Meta = {
   title: 'Components/Radio Group',
+  component: RadioGroup.Root,
 }
 
 export default meta

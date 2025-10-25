@@ -3,6 +3,7 @@ import { Tooltip } from '~/components/ui/tooltip'
 
 const meta: Meta = {
   title: 'Components/Tooltip',
+  component: Tooltip.Root,
 }
 
 export default meta

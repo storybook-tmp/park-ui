@@ -7,6 +7,7 @@ import { Input } from '~/components/ui/input'
 
 const meta: Meta = {
   title: 'Components/Date Picker',
+  component: DatePicker.Root,
 }
 
 export default meta

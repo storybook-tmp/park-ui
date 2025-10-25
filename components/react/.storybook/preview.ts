@@ -10,6 +10,9 @@ const preview: Preview = {
       },
     },
     layout: 'padded',
+    docs: {
+      codePanel: true,
+    },
   },
   decorators: [
     withThemeByClassName<ReactRenderer>({

@@ -3,6 +3,7 @@ import { Slider } from '~/components/ui/slider'
 
 const meta: Meta = {
   title: 'Components/Slider',
+  component: Slider,
 }
 
 export default meta

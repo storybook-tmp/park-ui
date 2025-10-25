@@ -5,6 +5,7 @@ import { Icon } from '~/components/ui/icon'
 
 const meta: Meta = {
   title: 'Components/Icon',
+  component: Icon,
 }
 
 export default meta

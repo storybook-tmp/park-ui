@@ -17,6 +17,7 @@ import { Text } from '~/components/ui/text'
 
 const meta: Meta = {
   title: 'Components/Menu',
+  component: Menu.Root,
 }
 
 export default meta

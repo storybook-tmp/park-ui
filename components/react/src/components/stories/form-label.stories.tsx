@@ -3,6 +3,7 @@ import { FormLabel } from '~/components/ui/form-label'
 
 const meta: Meta = {
   title: 'Components/Form Label',
+  component: FormLabel,
 }
 
 export default meta

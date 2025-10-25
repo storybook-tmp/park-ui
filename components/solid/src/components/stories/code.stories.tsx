@@ -3,6 +3,7 @@ import { Code } from '~/components/ui/code'
 
 const meta: Meta = {
   title: 'Components/Code',
+  component: Code,
 }
 
 export default meta

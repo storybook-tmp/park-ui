@@ -3,6 +3,7 @@ import { RatingGroup } from '~/components/ui/rating-group'
 
 const meta: Meta = {
   title: 'Components/Rating Group',
+  component: RatingGroup,
 }
 
 export default meta

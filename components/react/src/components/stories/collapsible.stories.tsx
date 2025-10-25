@@ -5,6 +5,7 @@ import { Collapsible } from '~/components/ui/collapsible'
 
 const meta: Meta = {
   title: 'Components/Collapsible',
+  component: Collapsible.Root,
 }
 
 export default meta
