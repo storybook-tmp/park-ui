@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { ChevronLeftIcon, ChevronRightIcon } from 'lucide-react'
 import { Carousel } from '~/components/ui/carousel'
 import { IconButton } from '~/components/ui/icon-button'

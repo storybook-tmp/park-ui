@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { ChevronDownIcon } from 'lucide-react'
 import { Accordion } from '~/components/ui/accordion'
 

@@ -1,10 +1,11 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { XIcon } from 'lucide-react'
 import { Button } from '~/components/ui/button'
 import { IconButton } from '~/components/ui/icon-button'
 import { Toast } from '~/components/ui/toast'
 
 const meta: Meta = {
+  component: Toast,
   title: 'Components / Toast',
 }
 

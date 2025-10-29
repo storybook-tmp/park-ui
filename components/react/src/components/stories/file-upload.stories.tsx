@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { Trash2Icon } from 'lucide-react'
 import { Button } from '~/components/ui/button'
 import { FileUpload } from '~/components/ui/file-upload'

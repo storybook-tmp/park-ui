@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { Field } from '~/components/ui/field'
 
 const meta: Meta = {

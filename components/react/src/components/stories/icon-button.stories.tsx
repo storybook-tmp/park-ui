@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { ArrowRightIcon } from 'lucide-react'
 import { IconButton } from '~/components/ui/icon-button'
 

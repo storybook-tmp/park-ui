@@ -1,4 +1,4 @@
-import type { Meta } from '@storybook/react'
+import type { Meta } from '@storybook/react-vite'
 import { PipetteIcon } from 'lucide-react'
 import { HStack, Stack } from 'styled-system/jsx'
 import { ColorPicker } from '~/components/ui/color-picker'
