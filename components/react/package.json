@@ -14,21 +14,21 @@
     "@pandacss/dev": "1.4.3",
     "@pandacss/preset-base": "1.4.3",
     "@park-ui/panda-preset": "workspace:*",
-    "@storybook/addon-a11y": "0.0.0-pr-32882-sha-f09df140",
-    "@storybook/addon-themes": "0.0.0-pr-32882-sha-f09df140",
-    "@storybook/react-vite": "0.0.0-pr-32882-sha-f09df140",
+    "@storybook/addon-a11y": "10.3.0-alpha.5",
+    "@storybook/addon-themes": "10.3.0-alpha.5",
+    "@storybook/react-vite": "10.3.0-alpha.5",
     "@types/react": "19.2.2",
     "@types/react-dom": "19.2.2",
     "@vitejs/plugin-react": "4.3.4",
     "lucide-react": "0.462.0",
     "react": "19.2.0",
     "react-dom": "19.2.0",
-    "storybook": "0.0.0-pr-32882-sha-f09df140",
+    "storybook": "10.3.0-alpha.5",
     "typescript": "5.7.2",
     "vite": "6.0.1",
     "vite-tsconfig-paths": "5.1.3"
   },
   "devDependencies": {
-    "@storybook/addon-docs": "0.0.0-pr-32882-sha-f09df140"
+    "@storybook/addon-docs": "10.3.0-alpha.5"
   }
 }
